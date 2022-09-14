@@ -2,7 +2,7 @@
 
 ### Hi 🤝
 
-#### I am a test driven Self taught Web developer with handson skills in HTML, CSS and JS
+#### I am a self driven Self taught Web developer with handson skills in HTML, CSS and JS
 
 ## My Social Media!
 
